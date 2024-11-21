@@ -1,26 +1,61 @@
-<h1 align="center">Oi 👋, eu sou Douglas Ribeiro da Silva</h1>
-<h3 align="center">Eu sou apaixonado por ciência e análise de dados no mundo digital</h3>
+<br clear="both">
 
-<p align=" left"> <img src="https://komarev.com/ghpvc/?username=douglasr7007&label=Profile%20views&color=0e75b6&style=flat" alt="douglasr7007" /> </p>
+<h2 align="center">About me</h2>
 
-- 🌱 Atualmente estou aprendendo **Python , MySQL e power BI**
+###
 
-- 💬 Me pergunte sobre **MySQL, Python e power BI**
+<p align="left">I'm currently majoring in Internet Systems and specializing in Power BI, SQL, and Python. I'm focused on improving my data analysis skills, aiming for my first opportunity in the field. I've already completed some projects, such as interactive dashboards, and I'm documenting my progress in my GitHub repository.</p>
 
-- 📫 Você me acha através do e-mail **ribeirodouglas7007@gmail.com**
+###
 
-<h3 align="left">Connect comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/douglas-ribeiro-da-silva/" target="blank"><img align="center" src ="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin .com/in/douglas-ribeiro-da-silva/" height="30" width="40" /></a> <
-a href="https://fb.com/https://www.facebook .com/profile.php?id=100004435628834&locale=pt_br" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master /src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100004435628834&locale=pt_br" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/douglas_ribeiro_510/" target="blank"><img align="center" src="https://raw.githubusercontent. com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/douglas_ribeiro_510/" height="30" width=" 40" /></a>
-</p>
+<br clear="both">
 
-<h3 align="left">Idiomas e ferramentas:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www. python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python " width="40" height="40"/> </a> </p>
+<h2 align="center">Tech</h2>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=douglasr7007&show_icons=true&locale=en&layout=compact" alt="douglasr7007" /></p>
+###
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h2 align="center">Stats</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Douglasr7007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Douglasr7007&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Douglasr7007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=2&theme=highcontrast&hide_border=false&order=2" height="115" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Douglasr7007&radius=16&theme=high-contrast&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<h2 align="center">Social media</h2>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/douglas-ribeiro-da-silva/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/douglas_ribeiro_510/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100004435628834" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=plastic" height="40" alt="facebook logo"  />
+  </a>
+</div>
+
+###
 
 <!---
 - 👋 Hi, I’m @Douglasr7007
