@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">I'm currently majoring in Internet Systems and specializing in Power BI, SQL, and Python. I'm focused on improving my data analysis skills, aiming for my first opportunity in the field. I've already completed some projects, such as interactive dashboards, and I'm documenting my progress in my GitHub repository.</p>
+<p align="left">I am currently majoring in Internet Systems, specializing in Power BI, SQL, and Python. I am focused on improving my data analysis skills, aiming for my first opportunity in the field. I have already completed some projects, such as interactive dashboards, and I am documenting my progress in my GitHub repository.</p>
 
 ###
 
@@ -18,6 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
